@@ -24,7 +24,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 
 ## 📷 Screenshots
 
-![Game Screenshot](screenshot.png) <!-- Replace with your actual screenshot file if available -->
+![Game Screenshot](photo.png) <!-- Replace with your actual screenshot file if available -->
 
 ---
 
