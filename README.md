@@ -30,3 +30,8 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 
 ## 📁 Folder Structure
 
+Tic-Tac-Toe/
+│
+├── index.html # Main HTML file
+├── style.css # Styling for the game
+└── script.js # Game logic
